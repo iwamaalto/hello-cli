@@ -1,1 +1,1 @@
-{"project_name":"hello-cli","tag":"v1.0.10","previous_tag":"v1.0.8","version":"1.0.10-SNAPSHOT-f0ef5bb","commit":"f0ef5bbad80e03b15026bbf3b7b480a086e106c4","date":"2024-07-03T20:15:20.682641+09:00","runtime":{"goos":"darwin","goarch":"arm64"}}
+{"project_name":"hello-cli","tag":"v1.0.0","previous_tag":"","version":"1.0.0-SNAPSHOT-9bcf205","commit":"9bcf205cf0377799678e6d53c11afaac1c519829","date":"2024-07-03T21:00:51.319902+09:00","runtime":{"goos":"darwin","goarch":"arm64"}}
